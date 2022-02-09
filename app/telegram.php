@@ -196,5 +196,5 @@ class Telegram {
       //DEBUG
       return $out;
     }
-
+//все хуйня. давай по новой
 }
